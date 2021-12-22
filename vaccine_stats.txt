@@ -1,0 +1,5 @@
+Total: 776705
+Mean: 18492.98
+Median: 12222.5
+Minimum Date: 2020-12-20, Doses:  206
+Maximum Date: 2021-06-27, Doses:  56999

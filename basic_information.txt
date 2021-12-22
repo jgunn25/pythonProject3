@@ -1,0 +1,17 @@
+There were 12800 cases reported in cases in a London, 1271 reported in Middlesex County and 155 from an unknown location.
+Overall:
+7081 case(s) identified as female.
+7140 case(s) identified as male.
+2 case(s) identified as non-binary
+0 case(s) identified as trans man.
+2 case(s) identified as trans woman.
+1 case(s) identified as unknown/ prefer not to say.
+
+The most cases occurred on 2021-04-13 when there were 176 cases.
+On that date:
+84 case(s) identified as female.
+92 case(s) identified as male.
+0 case(s) identified as non_binary.
+0 case(s) identified as trans man.
+0 case(s) identified as trans woman.
+0 case(s) identified as unknown/ prefer not to say.
